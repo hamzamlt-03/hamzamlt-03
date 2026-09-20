@@ -79,6 +79,10 @@ Python → BioPython → DNA/RNA Sequence Analysis → Genomic Data Analysis
 ## GitHub at a Glance
 
 <p align="center">
+  <img src="languages.svg" width="520" alt="Most used languages, repositories, stars and followers" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.public_repos&label=Public%20repositories&style=flat-square&color=2f81f7&labelColor=30363D" alt="Public repositories" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.followers&label=Followers&style=flat-square&color=2f81f7&labelColor=30363D" alt="Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.following&label=Following&style=flat-square&color=2f81f7&labelColor=30363D" alt="Following" />
