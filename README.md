@@ -76,11 +76,12 @@ Python → BioPython → DNA/RNA Sequence Analysis → Genomic Data Analysis
 
 ---
 
-## GitHub Analytics
+## GitHub at a Glance
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hamzamlt-03&show_icons=true&hide_border=true&bg_color=00000000&title_color=7D8590&text_color=7D8590&icon_color=4C9AFF" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamlt-03&layout=donut&langs_count=6&hide=jupyter%20notebook&hide_border=true&bg_color=00000000&title_color=7D8590&text_color=7D8590" alt="Most used languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.public_repos&label=Public%20repositories&style=flat-square&color=2f81f7&labelColor=30363D" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.followers&label=Followers&style=flat-square&color=2f81f7&labelColor=30363D" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzamlt-03&query=%24.following&label=Following&style=flat-square&color=2f81f7&labelColor=30363D" alt="Following" />
 </p>
 
 ---
