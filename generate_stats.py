@@ -9,7 +9,7 @@ import json, math, os, sys, urllib.request
 from xml.sax.saxutils import escape
 
 OUT = "languages.svg"
-EXCLUDE = {"Jupyter Notebook"}   # languages hidden from the chart; set() shows everything
+EXCLUDE = {"Jupyter Notebook", "HTML"}   # languages hidden from the chart; set() shows everything
 TOP_N = 5
 PALETTE = ["#4C9AFF", "#2DD4BF", "#F5B942", "#A78BFA", "#F472B6"]
 OTHER = "#94A3B8"
